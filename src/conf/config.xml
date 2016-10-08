@@ -1,0 +1,15 @@
+<config>
+<blocksize  type='1'>
+1024
+</blocksize>
+<blocknumber type='2'>
+40
+</blocknumber>
+<path type='3'>/service/</path>
+<ip type='4'>115.28.70.190</ip>
+<worker type='6'>10</worker>
+<diskSize type='7'>100</diskSize>
+<levels type='8'>1:2:3</levels>
+<maxPiece type='9'>100</maxPiece>
+</config>
+

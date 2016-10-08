@@ -1,0 +1,17 @@
+<config>
+<blocksize  type='1'>
+8192
+</blocksize>
+<blocknumber type='2'>
+10000
+</blocknumber>
+<path type='3'>/service/</path>
+<ip type='4'>115.28.70.190</ip>
+<worker type='6'>10</worker>
+<diskSize type='7'>100</diskSize>
+<levels type='8'>100</levels>
+<maxPiece type='9'>100</maxPiece>
+<LogPath type='10'>/home/Log/cache.log</LogPath>
+<LogLevel type='11'>3</LogLevel>
+</config>
+

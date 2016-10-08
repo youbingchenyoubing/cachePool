@@ -1,0 +1,12 @@
+
+testxml:testxml.o parsexml.o
+	g++ -o testxml testxml.o parsexml.o
+testxml.o:testxml.cpp parsexml.h
+	g++ -c testxml.o testxml.cpp
+parsexml.o:parsexml.cpp parsexml.h
+	g++ -c parsexml.o parsexml.cpp
+clean:
+	rm  *o
+
+
+make clean
